@@ -5,6 +5,7 @@ Sistema de gerenciamento de usuários (cadastrar, listar, editar e apagar), dese
 -- Python 3;
 -- HTML e CSS;
 -- Flask;
+-- Jinja2
 -- SQLite;
 
 ## Como executar?
